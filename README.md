@@ -1,16 +1,24 @@
-### Hi there 👋
+(https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/260886734_3088892388049885_3288123676428542701_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF3-RCHeQ6c4ABFhLjN64qK59ZYLqEajx3n1lguoRqPHVY4Y46VKJrGwa83RHQIQ80D-Dlzl7U8Zya83zDNlGBO&_nc_ohc=eL4zoR5OgWEAX8nEBBr&_nc_ht=scontent.fdac24-2.fna&oh=00_AT-tzJeq8Qun2ZXJzeG0BZijjDF9SsfGQ6x9wYrYR-ElRw&oe=630B7FE8)
+### Hi there 👋, I'm Takveer Ahmed
+#### Web Developer
+![Web Developer]
 
-<!--
-**takveer21/takveer21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A good academic record, ability to understand the software and working knowledge of several projects and programming languages with my fellow members and a strong understanding of core internet technologies. I‘m always an excellent team player and communicator. I’m looking for a challenging role in a reputable organization to utilize my technical and management skills for the growth of the organization as well as to enhance my knowledge.
 
-Here are some ideas to get you started:
+Skills: VUE JS / Laravel 8 / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Data Science 
+- 🌱 I’m currently learning MERN Stack 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/takveer21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/takveer-ahmed-tareq/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/tareqahmed.tareq.7906)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/takveer21)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/takveer21)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/takveer21&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/takveer21)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/takveer21)  
