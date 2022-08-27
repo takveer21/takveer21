@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Takveer Ahmed
 #### MSc in Data Science(Present) | Web Developer
-![MSc in Data Science | Web Developer]
 
-A good academic record, ability to understand the software and working knowledge of several projects and programming languages with my fellow members and a strong understanding of core internet technologies. I‘m always an excellent team player and communicator. I’m looking for a challenging role in a reputable organization to utilize my technical and management skills for the growth of the organization as well as to enhance my knowledge.
+Hi, I'm Takveer Ahmed and I'm an apprentice Web Developer. I'm studying MSc at Daffodil International University in Data Science(CSE). I've completed some web applications in Laravel & Vue.js. Right Now I'm learning MERN Stack. 
+My enclosed profile shows that I have a good academic record, the ability to understand software and working knowledge of several projects and programming languages, and a strong understanding of core internet technologies. I‘m always an excellent team player and communicator. 
+I've always wanted to be a very skilled programmer and software developer.
 
 Skills: VUE JS / Laravel 8 / JS / HTML / CSS
 
