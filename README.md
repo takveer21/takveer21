@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Takveer Ahmed
 #### MSc in Data Science(Present) | Web Developer
-![MSc in Data Science | Web Developer](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/260886734_3088892388049885_3288123676428542701_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF3-RCHeQ6c4ABFhLjN64qK59ZYLqEajx3n1lguoRqPHVY4Y46VKJrGwa83RHQIQ80D-Dlzl7U8Zya83zDNlGBO&_nc_ohc=eL4zoR5OgWEAX8nEBBr&_nc_ht=scontent.fdac24-2.fna&oh=00_AT-tzJeq8Qun2ZXJzeG0BZijjDF9SsfGQ6x9wYrYR-ElRw&oe=630B7FE8)
+![MSc in Data Science | Web Developer]
 
 A good academic record, ability to understand the software and working knowledge of several projects and programming languages with my fellow members and a strong understanding of core internet technologies. I‘m always an excellent team player and communicator. I’m looking for a challenging role in a reputable organization to utilize my technical and management skills for the growth of the organization as well as to enhance my knowledge.
 
